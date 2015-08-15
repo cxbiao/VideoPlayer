@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common -->
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#AA000000</color>
+    <color name="edit_text_color">#FF2B2B2B</color>
+    <color name="edit_hint_text_color">#FFAAAAAA</color>
+    <color name="sc_transparent_background">#00111111</color>
+    <color name="activity_bg">#F4EEE6</color>
+    <color name="activity_bg2">#ff232323</color>
+    <color name="user_info_layout_selector_bg_press_color">#F5EEE6</color>
+    <color name="fx_green">#5CAC00</color>
+    <color name="fx_gray">#A8A8A8</color>
+    <color name="fx_red">#FF1862</color>
+    <color name="fx_gold">#ffff6600</color>
+    <color name="user_info_divider1">#ffe5e5e5</color>
+    <color name="user_info_divider2">#fffcfcfc</color>
+
+    <!-- navigation color -->
+    <color name="navigation_bg">#252525</color>
+
+    <!-- login_activity color -->
+    <color name="login_bg">#252525</color>
+
+    <!-- livehall_fragment color -->
+    <color name="livehall_bg">#F4EEE6</color>
+
+    <!-- 注册，服务条款 -->
+    <color name="user_reg_deal_pressed">#FF878787</color>
+    <color name="user_reg_deal_default">#FFFFFF</color>
+
+    <!-- 排行榜 -->
+    <color name="top_indexcolor">#FFFF6633</color>
+
+    <!-- player notification -->
+    <color name="player_notification_bg">#fdfff7</color>
+
+    <!-- 礼物颜色 -->
+    <color name="gift_tab_item_none">#00000000</color>
+    <color name="gift_gridview_bg">#f3f3f3</color>
+    <color name="gift_tab_text_color_default">#8d98a4</color>
+    <color name="gift_tab_text_color_selected">#ade600</color>
+    <color name="gift_botton_bg">#3b4149</color>
+    <color name="gift_recharge_text_color">#e7b400</color>
+    <color name="gift_star_coin">#ff7800</color>
+    <color name="gift_item_bg_default">#f7f7f7</color>
+    <color name="gift_item_bg_pressed">#e4e4e4</color>
+    <color name="send_gift_text_color_white">#ffffff</color>
+
+    <!-- 直播间 -->
+    <color name="liveroom_bottom">#454c56</color>
+    <color name="liveroom_private_chat_count">#ffc000</color>
+    <color name="liveroom_chat_head_text_default">#8d98a4</color>
+    <color name="liveroom_chat_head_text_selected">#ade600</color>
+    <color name="liveroom_vedio_info_bg">#883a404a</color>
+    <color name="liveroom_vedio_share_bg">#9ac56d</color>
+    <color name="liveroom_share_to_pressed">#5090c0</color>
+    <color name="liveroom_count">#ffc000</color>
+    <color name="liveroom_fans_tab_bg">#fbfff0</color>
+    <color name="liveroom_back_bg_selected">#88686868</color>
+    <color name="liveroom_shortcut_dialog_name_hilight">#da4e4e</color>
+    <color name="liveroom_dynamic_bg1">#ffffff</color>
+    <color name="liveroom_dynamic_bg2">#eeeeee</color>
+    <color name="liveroom_notification_bg">#fdfff7</color>
+
+    <!-- 相册 -->
+    <color name="grid_selector_pressed">#38000000</color>
+
+    <!-- 我的档案 -->
+    <color name="my_leavemessage_bottom_bg">#FF4B535D</color>
+    <color name="my_leavemessage_replycolor">#FFC6C6C6</color>
+    <color name="my_leavemessage_nickname_color">#FF6CB108</color>
+    <color name="my_info_item_default">#FFf6f6f6</color>
+    <color name="my_info_item_pressed">#FFf4eee6</color>
+    <color name="my_info_edit_default">#FFfdfdfd</color>
+    <color name="my_info_edit_pressed">#FFf5eee6</color>
+
+    <!-- 商城颜色 -->
+    <color name="mall_tab_default">#F0ECE3</color>
+    <color name="mall_tab_checked">#D9D2C1</color>
+
+    <!-- 定时关闭字体颜色 -->
+    <color name="selected_color">#662200</color>
+    <color name="normal_color">#BBBBBB</color>
+    <color name="timer_bg">#f3f3f3</color>
+
+    <!-- 星乐坊颜色 -->
+    <color name="star_interview_list_item_default">#f2f2f2</color>
+    <color name="star_interview_list_item_select">#e4e4e4</color>
+    <color name="star_interview_bell_default">#00CCFF</color>
+    <color name="star_interview_bell_pressed">#999999</color>
+    <color name="star_liveroom_chat_head_text_default">#999999</color>
+    <color name="star_liveroom_chat_head_text_selected">#ffffff</color>
+    <color name="star_liveroom_fans_index_text">#00e079</color>
+
+    <!-- 设置 -->
+    <color name="msg_setting_time">#fcf8f4</color>
+    <color name="msg_setting_time_selected">#f8f2d3</color>
+    
+    <!-- 签到 -->
+    <color name="signin_calendar">#92741c</color>
+    <color name="signin_calendar_grey">#929292</color>
+    
+    <!-- banner网页标题颜色 -->
+    <color name="title_font_bg">#333333</color>
+</resources>
